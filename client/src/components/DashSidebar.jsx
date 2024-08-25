@@ -49,7 +49,7 @@ export default function DashSidebar() {
               <Sidebar.Item
                 active={tab === 'dash' || !tab}
                 icon={HiChartPie}
-                as='div'
+                as='div' 
               >
                 Dashboard
               </Sidebar.Item>
